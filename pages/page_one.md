@@ -16,7 +16,8 @@ In summary, software which is available to the public for free or at a low cost 
 ## Sources
 
 https://www.gnu.org/philosophy/free-sw.en.html?utm_source=chatgpt.com
-https://www.kernel.org/doc/html/next/process/index.html?utm_source=chatgpt.com
+
+https://www.kernel.org/doc/html/next/process/index.html
 
 
 
