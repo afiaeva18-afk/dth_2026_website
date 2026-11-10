@@ -18,7 +18,5 @@ In summary, software which is available to the public for free or at a low cost 
 - LibreOffice: https://www.libreoffice.org
 - Open Source Definition: https://opensource.org/osd
 
-Everything you see here is written in the file **pages/page_one.md**. Change the text there, save, and reload the page. You can use **bold**, *italics*, [links](https://www.sdu.dk) and lists:
-
 
 
