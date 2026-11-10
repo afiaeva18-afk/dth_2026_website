@@ -15,8 +15,8 @@ Also, the development of a program may be handled by a large, global community. 
 In summary, software which is available to the public for free or at a low cost allows users to be independent from a single software provider. Additionally, users may identify and correct errors and improvements to the program.
 ## Sources
 
-- LibreOffice: https://www.libreoffice.org
-- Open Source Definition: https://opensource.org/osd
+https://www.gnu.org/philosophy/free-sw.en.html?utm_source=chatgpt.com
+https://www.kernel.org/doc/html/next/process/index.html?utm_source=chatgpt.com
 
 
 
