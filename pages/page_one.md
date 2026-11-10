@@ -2,26 +2,17 @@
 
 ## The Advantages of Open Source Software
 
-# The advantages of open source software
+Open source software is a low-cost alternative to commercial software. The main reason for this is that source code is freely available to the public. Because of this, code may be altered to suit individual needs. Additionally, code may be altered to improve safety and security. Often, errors may be discovered and corrected by the users of a program.
 
-Open source software is often called "free", but price is only the beginning. The bigger advantage is that anyone can read, check, change and share the code.
+Open source software is often free, particularly for students and educators. For instance, students can use Libre Office which is a low cost alternative to Microsoft Office.
 
-## Transparency
+Software is often developed to be intuitive. This means that the program will determine user needs and output changes accordingly. Because of this, programmers may be used in a variety of fields to meet the needs of research and development departments.
 
-Because the source code is public, anyone can inspect what a program really does. A researcher can check that a tool handles data the way it claims, and security experts around the world can find and report mistakes.
+Open source software allows programs to be freely available to the public. Often, after a period of time, a software company will discontinue a program. Alternatively, a program can be continued to be developed and modified to meet the needs of users. This allows for software to be independent from a single provider.
 
-## No lock-in
+Also, the development of a program may be handled by a large, global community. Usually, volunteers will handle the development. Many of these volunteers will be programmers. Because of the nature of the community, a program may be developed quickly and meet the needs of the global community. Linux is an example of a program which has been developed in this manner.
 
-If a company stops supporting closed software, users can be left with a program that slowly stops working. Open source software can be kept alive by others. LibreOffice shows this: it started in 2010 as a continuation of OpenOffice.org, and it saves files in the open ODF format, so documents are not trapped in one company's product.
-
-## Adaptability
-
-Users can change the software to fit their needs, fix problems themselves or translate it into their own language.
-
-## Two perspectives
-
-A student can install LibreOffice on a private laptop for free and does not lose access when a university licence ends. A municipality can use it on thousands of computers without paying per user. If its needs change, it can switch supplier or hire its own developers, which makes it less dependent on a single vendor.
-
+In summary, software which is available to the public for free or at a low cost allows users to be independent from a single software provider. Additionally, users may identify and correct errors and improvements to the program.
 ## Sources
 
 - LibreOffice: https://www.libreoffice.org
