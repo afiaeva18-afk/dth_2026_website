@@ -175,7 +175,7 @@ footer {
 }
 
 .redText {
-  color: var(--red);
+  color: var(--light-blue);
 }
 
 .lightText {
@@ -228,4 +228,4 @@ main img {
   transform: scale(1);
 }
 
-#page_two h2 { color: var(--red); }
+#page_two h2 { color: var(--light-blue); }
