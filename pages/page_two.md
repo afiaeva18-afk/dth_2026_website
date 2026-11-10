@@ -17,6 +17,6 @@ Also, while there is no cost to download and use software, hardware, and firmwar
 Thus, given the unpredictability of open-source software maintenance, support, and development, users of such software must first determine the reliability of particular software to meet their needs.
 
 ## Sources
-https://www.gov.uk/government/publications/open-source-software-best-practice-supply-chain-risk-management/open-source-software-best-practices-and-supply-chain-risk-management?utm_source=chatgpt.com 
+https://www.gov.uk/government/publications/open-source-software-best-practice-supply-chain-risk-management/open-source-software-best-practices-and-supply-chain-risk-management
 
-https://www.ic3.gov/CSA/2024/241016-2.pdf?utm_source=chatgpt.com 
+https://www.ic3.gov/CSA/2024/241016-2.pdf
