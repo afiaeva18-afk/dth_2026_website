@@ -22,7 +22,7 @@ body {
   font-family: var(--projectFont);
   padding: 0;
   margin: 0;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 /* some of HTML elements come with element specific style, we want to remove it so we can style them ourselves */
@@ -179,14 +179,14 @@ footer {
 }
 
 .lightText {
-  font-weight: 200;
+  font-weight: 400;
 }
 
 /* markdown content */
 
 /* markdown cannot add classes, so the first paragraph after a headline gets the light style this way */
 main h2 + p {
-  font-weight: 200;
+  font-weight: 400;
 }
 
 /* the resets at the top remove link colours and bullets everywhere, so we give them back inside main */
