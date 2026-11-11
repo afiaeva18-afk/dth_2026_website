@@ -1,1 +1,1 @@
-# A project for my major
+# A Project for My Major
