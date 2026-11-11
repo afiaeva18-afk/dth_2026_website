@@ -1,6 +1,4 @@
-# Page one
-
-## The Advantages of Open Source Software
+# The Advantages of Open Source Software
 
 Open source software is a low-cost alternative to commercial software. The main reason for this is that source code is freely available to the public. Because of this, code may be altered to suit individual needs. Additionally, code may be altered to improve safety and security. Often, errors may be discovered and corrected by the users of a program.
 

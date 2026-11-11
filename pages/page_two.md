@@ -1,6 +1,4 @@
-# Page two
-
-## The Disadvantages of Open Source Software
+# The Disadvantages of Open Source Software
 
 There are a number of disadvantages of open source software that are unrelated to costs. These include reliability and security.
 
