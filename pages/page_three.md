@@ -17,7 +17,7 @@ Voyant counts the words and presents them in a variety of ways. For instance, I 
 - **Money:** It is unclear who runs the project. However, it is initially hosted and supported by the University of Alberta and McGill University, but sustained by member institutions, projects and individual members, both cash and in-kind.
 
 **Verdict:**
-I would use Voyant to analyze and gain a better understanding of the texts I work with. The texts I work with are in digital files, so I can easily export the files to other programs, including Voyant. The major risk is the sole responsibility of the program rests on one individual, and the lead designer died in 2020. 
+I would use Voyant to analyze and gain a better understanding of the texts I work with. However, I would also use other tools to analyze the texts along with Voyant because word counts are subjective. The texts I work with are in digital files, so I can easily export the files to other programs, including Voyant. The major risk is the sole responsibility of the program rests on one individual, and the lead designer died in 2020. 
 ## Sources:
 
 Repository: https://github.com/voyanttools/Voyant
