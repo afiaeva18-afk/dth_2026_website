@@ -3,13 +3,13 @@
 # Voyant Tools: Text Analysis for English Literature Majors
 
 
-**What it is:**
+**What is Voyant Tools:**
 Voyant Tools is an online environment to study and analyze digital texts. It is listed in the Awesome Digital Humanities under data analysis. It was created by Stéfan Sinclair and Geoffrey Rockwell and can be used in a browser or run on a computer. 
 
-**How it helps in English:**
+**How It Helps in English:**
 Voyant counts the words and presents them in a variety of ways. For instance, if I upload two novels from Project Gutenberg, which would be Jane Austen’s *Pride and Prejudice* and *Emma*, and compare the most frequent words to see where the word “marriage” occurs. A close reading of the entire texts of the novels would show that the word appears quite frequently. 
 
-**The five checks:**
+**The Five Checks:**
 - **Licence:** Voyanttools/Voyant is licensed under the GNU General Public License v3.0. I may use, study, change and share the code.  If I share a copy or a changed version, it must stay under the same licence.
 - **Last change:** The latest commit is from 20 October 2026, about three weeks ago. 
 - **People:** The latest number of contributors is ten. 
