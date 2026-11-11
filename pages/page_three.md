@@ -13,7 +13,7 @@ Voyant counts the words and presents them in a variety of ways. For instance, I 
 - **Licence:** Voyanttools/Voyant is licensed under the GNU General Public License v3.0. 
 - **Last change:** The last commit is from 20 October 2026, about three weeks ago. 
 - **People:** The latest number of contributors is ten. 
-- **Questions:** 25 open issues, and several from 2021 are still open. However, 85 issues are answered by maintainers.
+- **Questions:** 85 issues are answered by maintainers.
 - **Money:** It is unclear who runs the project. However, it is initially hosted and supported by the University of Alberta and McGill University, but sustained by member institutions, projects and individual members, both cash and in-kind.
 
 **Verdict:**
