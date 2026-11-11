@@ -2,8 +2,6 @@
 
 Open source software is a low-cost alternative to commercial software. The main reason for this is that source code is freely available to the public. Because of this, code may be altered to suit individual needs. Additionally, code may be altered to improve safety and security. Often, errors may be discovered and corrected by the users of a program.
 
-Open source software is often free, particularly for students and educators. For instance, students can use Libre Office which is a low cost alternative to Microsoft Office.
-
 Software is often developed to be intuitive. This means that the program will determine user needs and output changes accordingly. Because of this, programmers may be used in a variety of fields to meet the needs of research and development departments.
 
 Open source software allows programs to be freely available to the public. Often, after a period of time, a software company will discontinue a program. Alternatively, a program can be continued to be developed and modified to meet the needs of users. This allows for software to be independent from a single provider.
