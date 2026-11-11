@@ -18,9 +18,7 @@ Voyant counts the words and presents them in a variety of ways. For instance, I 
 
 **Verdict:**
 I would use Voyant to analyze and gain a better understanding of the texts I work with. The texts I work with are in digital files, so I can easily export the files to other programs, including Voyant. The major risk is the sole responsibility of the program rests on one individual, and the lead designer died in 2020. 
-
-**Sources:**
-Voyant Tools: https://voyant-tools.org
+## Sources:
 
 Repository: https://github.com/voyanttools/Voyant
 
