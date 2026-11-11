@@ -6,9 +6,7 @@ Software is often developed to be intuitive. This means that the program will de
 
 Open source software allows programs to be freely available to the public. Often, after a period of time, a software company will discontinue a program. Alternatively, a program can be continued to be developed and modified to meet the needs of users. This allows for software to be independent from a single provider.
 
-Also, the development of a program may be handled by a large, global community. Usually, volunteers will handle the development. Many of these volunteers will be programmers. Because of the nature of the community, a program may be developed quickly and meet the needs of the global community. Linux is an example of a program which has been developed in this manner.
-
-In summary, software which is available to the public for free or at a low cost allows users to be independent from a single software provider. Additionally, users may identify and correct errors and improvements to the program.
+Also, the development of a program may be handled by a large, global community. Usually, volunteers will handle the development. Many of these volunteers will be programmers. Because of the nature of the community, a program may be developed quickly and meet the needs of the global community. Linux is an example of a program which has been developed in this manner. 
 ## Sources
 
 https://www.libreoffice.org/faq/
